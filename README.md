@@ -1,5 +1,5 @@
 
-# Natural Language Processing using Dialogflow and FastAPI
+# Natural Language Processing Chatbot using Dialogflow and FastAPI
 
 ## Objective:
 The primary goal of the project is to create an intelligent chatbot capable of understanding user queries related to food orders and providing relevant responses. The chatbot is integrated with Dialogflow for NLP and utilizes FastAPI as the backend to process requests, interact with a MySQL database, and manage the flow of conversations.
